@@ -10,10 +10,14 @@ Makes the RTX-Remix install as easy as possible.
 1. **Download** the provided ZIP file from the releases section.
 2. **Unzip** the downloaded folder.
 3. **Choose your installation method:**
-   - **Option 1:** Place the unzipped files directly into your main Garry's Mod game directory, overwriting files when prompted.
+   - **Option 1:** Place the unzipped files directly into your main Garry's Mod game directory.
    - **Option 2 (Optional for separation):**
      1. Make a copy of your Garry's Mod folder (e.g., `garrysmod`) and rename it to `GarrysmodRTX`.
-     2. Place the unzipped files into the new `GarrysmodRTX` folder, overwriting files when prompted.
+     2. Place the unzipped files into the new `GarrysmodRTX` folder.
+
+4. **Run the GmodInstaller:**
+   - The installer will guide you to locate your `gmod.exe` and `hl2.exe` files based on the directory you selected above.
+   - Follow the on-screen instructions to configure the paths correctly.
 
 ### Main Game Directory
    - Typically located at: `C:\Program Files (x86)\Steam\steamapps\common\GarrysMod`
