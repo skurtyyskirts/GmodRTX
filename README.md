@@ -1,6 +1,6 @@
 # GarrysmodRTX Drag 'n Drop Solution 🎮✨
 
-Makes the RTX-Remix install as easy as possible.
+Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and 397 tagged textures for the runtime. This installer will periodically be updated to have the lateset RTX-Runtime with it's relative DXVK and Bridge. 
 
 ---
 
