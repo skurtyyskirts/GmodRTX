@@ -11,7 +11,7 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 
 ## 🚀 Install Instructions / Usage
 
-### Download and Install
+### 🔨Download and Install
 
 1️⃣ **Download** the provided ZIP file from the [releases section](https://github.com/skurtyyskirts/GmodRTX/releases).
 
@@ -45,7 +45,7 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
      ```
      This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game. Press save to keep changes.
 
-### 🤓 Usage Notes
+### 🧑‍💻 Usage Notes
 
 - **Adjusting Screen Size:** When launching the game through `gmod.rtx.exe`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
 - **Texture Tagging:** After loading into a map, remember to run the `rtx.pseudo` commands before tagging the original texture hashes as playermodel or weapon textures. For example, if you tag the SMG texture as a playermodel without enabling pseudo, the SMG will disappear anywhere it is found in the game.
