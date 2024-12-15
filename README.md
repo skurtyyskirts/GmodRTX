@@ -1,6 +1,6 @@
-# GarrysmodRTX Drag 'n Drop Solution 🎮✨
+# GarrysmodRTX Easy Installation Guide 🎮✨
 
-Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and 397 tagged textures for the runtime. This installer will periodically be updated to have the lateset RTX-Runtime with it's relative DXVK and Bridge. 
+Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and 397 tagged textures for the runtime. This installer will periodically be updated to have the latest RTX-Runtime with its relative DXVK and Bridge. 
 
 ---
 
@@ -19,10 +19,21 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
    - The installer will guide you to locate your `gmod.exe` and `hl2.exe` files based on the directory you selected above.
    - Follow the on-screen instructions to configure the paths correctly.
 
-### Main Game Directory
-   - Typically located at: `C:\Program Files (x86)\Steam\steamapps\common\GarrysMod`
+5. **Subscribe to Required Mods:**
+   - Visit your [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598).
+   - Click **"Subscribe to All"** to ensure you have all the necessary mods installed.
 
-That's it! Launch the game as usual and enjoy your RTX-enhanced Garry's Mod experience. 🎉
+6. **Launch the Game:**
+   - Use the newly created `gmod.rtx.exe` to launch the game.
+   - Once the game loads, open any map and press `~` to open the console.
+   - Enter the following commands:
+     ```
+     rtx.pseudoplayer_unique_hashes 1
+     rtx.pseudoweapon_unique_hashes 1
+     ```
+     This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game.
+
+That's it! You’re all set. Enjoy your RTX-enhanced Garry's Mod experience. 🎉
 
 ---
 
