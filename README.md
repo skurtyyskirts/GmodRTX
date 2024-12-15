@@ -43,7 +43,7 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
      ```
      This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game.
 
-### Usage Notes
+### 🧑‍💻 Usage Notes
 
 - **Adjusting Screen Size:** When launching the game through `gmod.rtx.exe`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
 - **Texture Tagging:** After loading into a map, remember to run the `rtx.pseudo` commands before tagging the original texture hashes as playermodel or weapon textures. For example, if you tag the SMG texture as a playermodel without enabling pseudo, the SMG will disappear anywhere it is found in the game.
@@ -53,7 +53,7 @@ That's it! You’re all set. Enjoy your RTX-enhanced Garry's Mod experience. �
 
 ---
 
-## 🙌 Credits
+## ❤️ Credits
 
 A huge thank you to the following projects and creators for making this possible:
 
@@ -72,7 +72,6 @@ A huge thank you to the following projects and creators for making this possible
 - Explore the [Garry's Mod ModDB Page](https://www.moddb.com/games/garrys-mod-10) to discover more about the game.
 - Check out my [Mod Collection on ModDB](https://www.moddb.com/members/skurtyyskirts/mods) for additional content.
 
----
+<a href='https://ko-fi.com/F1F4XIS5X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-Enjoy! ✨
 
