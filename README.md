@@ -37,13 +37,13 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 6. **Launch the Game:**
 
    - Use the newly created `gmod.rtx.exe` to launch the game.
-   - Once the game loads, open any map and press `~` to open the console.
+   - Once the game loads, load into any map and press `~` to open the console.
    - Enter the following commands:
      ```
      rtx.pseudoplayer_unique_hashes 1
      rtx.pseudoweapon_unique_hashes 1
      ```
-     This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game.
+     This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game. Press save to keep changes.
 
 ### 🧑‍💻 Usage Notes
 
