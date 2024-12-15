@@ -5,6 +5,8 @@
 
 Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and 397 tagged textures for the runtime. This installer will periodically be updated to have the latest RTX-Runtime with its relative DXVK and Bridge.
 
+ **Please note: This installation process works only with the 32-bit version of Garry's Mod.**
+
 ---
 
 ## 🚀 Install Instructions / Usage
