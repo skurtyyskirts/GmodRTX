@@ -26,13 +26,13 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 
 4. **Run the GmodInstaller:**
 
-   - The installer will guide you to locate your `gmod.exe` and `hl2.exe` files based on the directory you selected above.
-   - Follow the on-screen instructions to configure the paths correctly.
+   - The installer will ask you to locate your `gmod.exe` file based on the directory you selected above.
+   - This will create 'gmod.rtx.exe where you'll launch the game.
 
 5. **Subscribe to Required Mods:**
 
    - Visit my [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598).
-   - Click **"Subscribe to All"** to ensure you have all the necessary mods installed.
+   - Click **"Subscribe to All"** to ensure you have all the necessary mods installed. Make sure you don't overwrite your existing mods.
 
 6. **Launch the Game:**
 
@@ -49,7 +49,8 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 
 - **Adjusting Screen Size:** When launching the game through `gmod.rtx.exe`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
 - **Texture Tagging:** After loading into a map, remember to run the `rtx.pseudo` commands before tagging the original texture hashes as playermodel or weapon textures. For example, if you tag the SMG texture as a playermodel without enabling pseudo, the SMG will disappear anywhere it is found in the game.
-- **To tag Playermodel Textures**, open the RTX-Remix runtime menu with Alt+X. Click "Developer Settings Menu on  the bottom left. Then select "Game Setup" and then "Categorize Textures". Hover your mouse over your playermodel select, then tag it as "Player Model Texture". 
+- **To tag Playermodel Textures:** Open the RTX-Remix runtime menu with Alt+X. Click "Developer Settings Menu on  the bottom left. Then select "Game Setup" and then "Categorize Textures". Hover your mouse over your playermodel select, then tag it as "Player Model Texture".
+- **Mirrored Map Fix:** You'll notice in some maps you'll get a mirrored effect where the map will suddenly not look right. To fix this, open  the console _(~)_ and enter _ent_remove_all func_reflective_glass_ - this will fix the map. 
 
 That's it! You’re all set. Enjoy your RTX-enhanced Garry's Mod experience. 🎉
 
