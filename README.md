@@ -1,6 +1,7 @@
-# GarrysmodRTX Drag 'n Drop Solution 🎮✨
+# Skurtyy's GmodRTX  Easy Installation 🎮✨
+![skurtyyskirtsbanner](https://github.com/user-attachments/assets/e2bb5b3d-d44b-402e-8ff0-92be12d3bc2d)
 
-Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and 397 tagged textures for the runtime. This installer will periodically be updated to have the latest RTX-Runtime with its relative DXVK and Bridge.
+Makes the Garrysmod RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and 397 tagged textures for the runtime. This installer will periodically be updated to have the latest RTX-Runtime with its relative DXVK and Bridge.
 
 ---
 
