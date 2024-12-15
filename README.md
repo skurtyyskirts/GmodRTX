@@ -1,4 +1,4 @@
-# Skurtyy's GmodRTX Easy Installation 🎮✨
+# ✨🎮 Skurtyy's GmodRTX Easy Installation 🎮✨
 
 [![skurtyyskirtsbanner](https://raw.githubusercontent.com/skurtyyskirts/GmodRTX/refs/heads/main/imgs/skurtyyskirtsbanner.png)](https://www.moddb.com/members/skurtyyskirts/mods)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F4XIS5X)
