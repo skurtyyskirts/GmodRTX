@@ -20,8 +20,8 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
    - Follow the on-screen instructions to configure the paths correctly.
 
 5. **Subscribe to Required Mods:**
-   - Visit your [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598).
-   - Click **"Subscribe to All"** to ensure you have all the necessary mods installed.
+   - Subscribe to my [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598).
+   - Click **"Subscribe to All"** to ensure you have all the necessary mods installed. Ensure you don't overwrite your existing mods.
 
 6. **Launch the Game:**
    - Use the newly created `gmod.rtx.exe` to launch the game.
