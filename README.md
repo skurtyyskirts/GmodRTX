@@ -1,4 +1,6 @@
+<div style="text-align:center">
 # ✨🎮 Skurtyy's GmodRTX Easy Installation 🎮✨
+</div>
 
 [![skurtyyskirtsbanner](https://raw.githubusercontent.com/skurtyyskirts/GmodRTX/refs/heads/main/imgs/skurtyyskirtsbanner.png)](https://www.moddb.com/members/skurtyyskirts/mods)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F4XIS5X)
@@ -13,28 +15,28 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 
 ### 🔨Download and Install
 
-1️⃣ **Download** the provided ZIP file from the [releases section](https://github.com/skurtyyskirts/GmodRTX/releases).
+1. **Download** the provided ZIP file from the [releases section](https://github.com/skurtyyskirts/GmodRTX/releases).
 
-2️⃣ **Unzip** the downloaded folder.
+2. **Unzip** the downloaded folder.
 
-3️⃣ **Choose your installation method:**
+3. **Choose your installation method:**
 
    - **Option 1 (Direct Installation):** Place the unzipped files directly into your main Garry's Mod game directory.
-   - **Option 2 (Keep Gmod & GmodRTX Separate Installation):**
+   - **Option 2 (Keep Gmod & GmodRTX Separate):**
      1. Make a copy of your Garry's Mod folder (e.g., `garrysmod`) and rename it to `GarrysmodRTX`.
      2. Place the unzipped files into the new `GarrysmodRTX` folder.
 
-4️⃣ **Run the GmodInstaller:**
+4. **Run the GmodInstaller:**
 
    - The installer will ask you to locate your `gmod.exe` file based on the directory you selected above.
    - This will create `gmod.rtx.exe`, which you'll use to launch the game.
 
-5️⃣ **Subscribe to Required Mods:**
+5. **Subscribe to Required Mods:**
 
    - Visit my [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598).
    - Click **"Subscribe to All"** to ensure you have all the necessary mods installed. Make sure you don't overwrite your existing mods.
 
-6️⃣ **Launch the Game:**
+6. **Launch the Game:**
 
    - Use the newly created `gmod.rtx.exe` to launch the game.
    - Once the game loads, load into any map and press `~` to open the console.
@@ -45,6 +47,8 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
      ```
      This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game. Press save to keep changes.
 
+That's it! You’re all set. Enjoy your RTX-enhanced Garry's Mod experience. 🎉
+
 ### 🧑‍💻 Usage Notes
 
 - **Adjusting Screen Size:** When launching the game through `gmod.rtx.exe`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
@@ -54,9 +58,6 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
   ```
   ent_remove_all func_reflective_glass
   ```
-  This will fix the map.
-
-That's it! You’re all set. Enjoy your RTX-enhanced Garry's Mod experience. 🎉
 
 ---
 
