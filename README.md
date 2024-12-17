@@ -1,4 +1,3 @@
-<div style="text-align:center">
 # ✨🎮 Skurtyy's GmodRTX Easy Installation 🎮✨
 </div>
 
