@@ -1,12 +1,11 @@
 # ✨🎮 Skurtyy's GmodRTX Easy Installation 🎮✨
-</div>
 
 [![skurtyyskirtsbanner](https://raw.githubusercontent.com/skurtyyskirts/GmodRTX/refs/heads/main/imgs/skurtyyskirtsbanner.png)](https://www.moddb.com/members/skurtyyskirts/mods)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F4XIS5X)
 
 Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and hundreds of tagged and preconfigured textures for the runtime. This installer will periodically be updated to have the latest RTX-Runtime with its relative DXVK and Bridge.
 
-⚠️**Please note: This installation process works only with the 32-bit version of Garry's Mod.**
+🚧**Please note: This installation process works only with the 32-bit version of Garry's Mod.**
 
 ---
 
@@ -32,10 +31,15 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 
 5. **Subscribe to Required Mods:**
 
-   - Visit my [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598).
+   - Visit the [Steam Workshop Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3386635300).
    - Click **"Subscribe to All"** to ensure you have all the necessary mods installed. Make sure you don't overwrite your existing mods.
 
-6. **Launch the Game:**
+6. **Optional Mods and Maps:**
+
+   - Check out Skurtyy's mods and maps on [ModDB](https://www.moddb.com/members/skurtyyskirts/mods).
+   - Optionally, subscribe to [this optional Steam Workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3384083598) if you want all the mods/maps that apear in my RTX-Mods.
+
+7. **Launch the Game:**
 
    - Use the newly created `gmod.rtx.exe` to launch the game.
    - Once the game loads, load into any map and press `~` to open the console.
@@ -46,7 +50,7 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
      ```
      This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game. Press save to keep changes.
 
-That's it! You’re all set. Enjoy your RTX-enhanced Garry's Mod experience. 🎉
+That's it! You’re all set. Enjoy Gmod with path tracing. 🎉
 
 ### 🧑‍💻 Usage Notes
 
