@@ -5,7 +5,7 @@
 
 Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.conf that automatically selects the best DLSS option for your hardware, and hundreds of tagged and preconfigured textures for the runtime. This installer will periodically be updated to have the latest RTX-Runtime with its relative DXVK and Bridge.
 
-⚠️**Please note: This installation process works only with the 32-bit version of Garry's Mod.**
+⚠️ **Please note: This installation process works only with the 32-bit version of Garry's Mod.**
 
 ---
 
@@ -41,9 +41,9 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
      ```
      This will allow you to tag your playermodel textures and weapon textures in the runtime without hiding the original textures when they appear in the game. Press save to keep changes.
 
-That's it! You’re all set. Enjoy Gmod with path tracing. 🎉
+That's it! You're all set. Enjoy Gmod with path tracing. 🎉
 
-### 📝Usage Notes
+### 📝 Usage Notes
 
 - **Adjusting Screen Size:** When launching the game through `gmodrtx.exe.bat`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
 - **Texture Tagging:** After loading into a map, remember to run the `rtx.pseudo` commands before tagging the original texture hashes as playermodel or weapon textures. For example, if you tag the SMG texture as a playermodel without enabling pseudo, the SMG will disappear anywhere it is found in the game.
@@ -62,7 +62,8 @@ A huge thank you to the following projects and creators for making this possible
 - [**SourceRTXTweaks**](https://github.com/BlueAmulet/SourceRTXTweaks) - Blue Amulet's essential tweaks for Source-based games with RTX.
 - [**NVIDIA RTX Remix**](https://github.com/NVIDIAGameWorks/rtx-remix) - The framework that makes RTX magic happen, by Nvidia.
 - [**Garry's Mod RTX Support**](https://steamcommunity.com/sharedfiles/filedetails/?id=3038853470) - Xenthio's RTX-Remix fixes mod, making Gmod more compatible with Remix.
-- **Watbulb** - For his continued support and helping make the installation process easier.
+- **Watbulb** - For their ongoing support and for streamlining the installation process.
+- **CR** - For implementing the Lua water fixes and optimizing the autoexec.cfg.
 
 ---
 
@@ -74,5 +75,8 @@ A huge thank you to the following projects and creators for making this possible
 - Explore the [Garry's Mod ModDB Page](https://www.moddb.com/games/garrys-mod-10) to discover more about the game.
 - Check out my [Mod Collection on ModDB](https://www.moddb.com/members/skurtyyskirts/mods) for additional content.
 
-<a href='https://ko-fi.com/F1F4XIS5X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+<div align="center">
+  <a href='https://ko-fi.com/F1F4XIS5X' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
