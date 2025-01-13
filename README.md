@@ -74,6 +74,7 @@ A huge thank you to the following projects and creators for making this possible
 - Join the [RTX Remix Discord](https://discord.gg/c7J6gUhXMk) to connect with the community!
 - Explore the [Garry's Mod ModDB Page](https://www.moddb.com/games/garrys-mod-10) to discover more about the game.
 - Check out my [Mod Collection on ModDB](https://www.moddb.com/members/skurtyyskirts/mods) for additional content.
+- If you'd like to manually install GmodRTX, follow [this guide.](https://github.com/skurtyyskirts/GmodRTX/wiki/Manual-Installation-Guide)
 
 <div align="center">
   <a href='https://ko-fi.com/F1F4XIS5X' target='_blank'>
