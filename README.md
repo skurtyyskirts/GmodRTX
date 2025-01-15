@@ -43,7 +43,7 @@ Makes the RTX-Remix install as easy as possible. Features a pre-configured rtx.c
 
 That's it! You're all set. Enjoy Gmod with path tracing. 🎉
 
-### 📝 Usage Notes
+### 🖋 Usage Notes
 
 - **Adjusting Screen Size:** When launching the game through `gmodrtx.exe.bat`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
 - **Texture Tagging:** After loading into a map, remember to run the `rtx.pseudo` commands before tagging the original texture hashes as playermodel or weapon textures. For example, if you tag the SMG texture as a playermodel without enabling pseudo, the SMG will disappear anywhere it is found in the game.
@@ -52,6 +52,7 @@ That's it! You're all set. Enjoy Gmod with path tracing. 🎉
   ```
   ent_remove_all func_reflective_glass
   ```
+- ⚠️ **Known Issue: Black Sky:** Some users may experience a black sky in certain maps. This issue is being investigated, and updates will be provided as a solution is found.
 
 ---
 
@@ -81,3 +82,4 @@ A huge thank you to the following projects and creators for making this possible
     <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
+
