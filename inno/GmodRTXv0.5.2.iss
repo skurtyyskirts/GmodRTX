@@ -1,5 +1,5 @@
 #define MyAppName "GarrysmodRTX"
-#define MyAppVersion "0.5"
+#define MyAppVersion "0.5.2"
 #define MyAppPublisher "skurtyyskirts"
 #define MyAppURL "https://github.com/skurtyyskirts/GmodRTX"
 
