@@ -52,7 +52,6 @@ That's it! You're all set. Enjoy Gmod with path tracing. 🎉
   ```
   ent_remove_all func_reflective_glass
   ```
-- ⚠️ **Known Issue: Black Sky:** Some users may experience a black sky in certain maps. This issue is being investigated, and updates will be provided as a solution is found.
 
 ---
 
