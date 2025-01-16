@@ -45,7 +45,6 @@ That's it! You're all set. Enjoy Gmod with path tracing. 🎉
 
 ### 🖋 Usage Notes
 
-- **Adjusting Screen Size:** When launching the game through `gmodrtx.exe.bat`, the screen will initially appear small. You can adjust this through the in-game settings. Unfortunately, this adjustment will need to be repeated every time you launch the game.
 - **Texture Tagging:** After loading into a map, remember to run the `rtx.pseudo` commands before tagging the original texture hashes as playermodel or weapon textures. For example, if you tag the SMG texture as a playermodel without enabling pseudo, the SMG will disappear anywhere it is found in the game.
 - **To tag Playermodel Textures:** Open the RTX-Remix runtime menu with Alt+X. Click "Developer Settings Menu" on the bottom left. Then select "Game Setup" and then "Categorize Textures." Hover your mouse over your playermodel, then tag it as "Player Model Texture."
 - **Mirrored Map Fix:** You'll notice in some maps you'll get a mirrored effect where the map will suddenly not look right. To fix this, open the console (`~`) and enter:
